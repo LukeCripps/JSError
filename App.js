@@ -2,8 +2,8 @@ import logo from './logo.svg';
 import data from './data';
 import { BrowserRouter, Route } from 'react-router-dom';
 import './App.css';
-import HomeScreen from './screens/HomeScreen.js';
-import ProductScreen from './screens/ProductScreen.js';
+import HomeScreen from './HomeScreen.js';
+import ProductScreen from './ProductScreen.js';
 
 function App() {
 
